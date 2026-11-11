@@ -1,0 +1,281 @@
+Dyhortfight chapitre 2
+Version déboguée.
+Site : HTTP://membres.lycos.fr/bradgone/dyh.htm
+E-mail : bradgeone@AOL.com
+
+
+*****Les fichiers se rapportant aux 3 héros (picture et charaset) ne
+doivent pas etre repris*****
+
+Une musique a été composé par Lepanthe pour son jeu Another Destiny
+(musique avec droit d'utilisation).
+
+Encore merci à Shinji pour les sons qu'il m'a donné, à Jyuza pour ses idées et les fichiers qu'il a mis en libre téléchargement.
+Merci à El diablo pour m'avoir mis dans ses news, et merci à Suiko,
+F.lechat, Paladin et tout les autres qui s'occupent des alex.
+Et enfin merci a ceux qui ont téléchargé mon jeu.
+
+
+///////////////////////////////////////////////////////////////////////
+/!\ RTP nécessaire, RTP add on nécessaire /!\
+Si il vous manque des fichiers, vous n'avez pas les RTP add on.
+Si vous ne savez pas ce que c'est -> faites un recherche sous google avec comme mot clé : "rtp add on 1.32"
+///////////////////////////////////////////////////////////////////////
+
+
+Conseil : N'augmentez pas que la défense et la force sinon vous
+courez droit au game over.
+
+Capacités requises pour avoir les techniques :
+bloosky :
+Boule feu : att 13   def 14
+Kaméha : magie 12  esprit 9
+protection : def 20  agilité 15
+dragon : magie 18  HP 80
+Trans : Les 4 ci dessus  et  esquive :15
+
+Darkbeat :
+voler : agilité 9
+Lancer : esprit 10  att 16 (si agilité<10, lance 1 shuriken, si >10 et<20, lance 2 shurikens etc...
+Clone : def 20  magie 12
+Prétification : esprit 16  HP 90 (prétrifie l'ennemi)
+Trans : Les 4 ci dessus  et  esquive :25
+
+Kléa :
+Feu : magie 11
+Foudre : att 10 def 10
+Vent : Agilité 15  esprit 15
+Soin : att 16  HP 70
+Trans : Les 4 ci dessus  et  esquive :15
+
+Soluce : (la soluce ne prend pas en compte les séquences faciles)
+entrée = bouton valider
+echap = bouton annulation
+
+
+Bloosky : plaine enneigée :
+Pour cette partie, utilisé plutot les PC pour augmenter la
+defense et l'attaque, afin d'avoir la technique "boule de feu".
+
+La premiere partie avec Bloosky n'est pas très dure.
+Prenez le coffre dans la maison de départ, fouillez les maisons
+pour trouver divers objets et achetez une potion...
+Le plan : Bloosky doit se placer a environ 5-6 carreaux de Robert.
+Mettez ensuite "entrer", il vous poursuivra. Vous devez vous rendre
+devant un petit coin d'eau puis mettre "entrée". Si à ce moment là Robert n'est pas tres loin de vous, c'est gagné.
+Sortez du village, allez a gauche pour prendre une potion, puis
+à droite.
+Combattez, avancez puis choisissez "devant Klea".
+Lorsque vous trouverez 2 rochers, vous pouvez les pousser mais
+attention, si vous les poussez n'importe comment vous blesserez un
+de vos coequipiers...
+Allez en haut a gauche pour trouver une potion, puis revenez et traversez le lac avec les rondins, montez et poussez le troc d'arbre.
+Revenez en bas et sautez sur le rondin en face de l'entrée, puis mettez
+"entrée", puis encore "entrée".
+
+Caverne : 
+trivial sauf la salle ou il y a une pancarte et 3 cailloux.
+Il y a une symétrie verticale...
+
+Départ bloosky :
+Il suffit de se rendre au port, vous pouvez vous arreter à l'église
+si vous voulez (il y a une plume de phénix).
+
+Le port :
+Parlez au gars dans le batiment. Puis transportez les 7 tonneaux (pas le 8eme). Disposez les comme ca :  |      |   
+                                   |o     |                                                               |o    o|                                                               |o    o|                                                                |o  o|                                                                   ||
+
+Rentrer dans le bateau puis dans la cabine de Bloosky (la dernière).
+
+
+Choix Kléa/Darkbeat
+
+
+Kléa : Départ
+Kléa a une défense un peu faible, l'idéal serait d'aller acheter 
+l'émeraude chez le vendeur. Achetez quelques potions puis parlez
+a Célie pour partir.
+Il vaut mieux augmenter avec les PC tout d'abord la magie pour avoir le
+sort "FEU" très utile contre les monstres taupes.
+Ensuite augmentez la défense.
+
+Chez le vieux :
+Sur la carte, allez dans la petite maison au nord Est.
+Parlez au chien, puis allez faire les énigmes derrière la maison (il y
+en a 5 en tout, 1 par carreau).
+1ere énigme : parlez au chien.
+2eme énigme : ne touchez pas la taupe et attendez 1 minute.
+3eme énigme : appuyez sur les touches indiquées (attention il peut
+y avoir 2 fois la meme).
+4eme énigme : prenez le chat, passez de l'autre coté, prenez la souris,
+passez, reprenez le chat, passez, prenez le chien, passez, allez chercher le chat et passez.
+5éme énigme : l'ennemi est l'ange.
+
+Le port :
+Allez ensuite au port et cachez vous dans le tonneau.
+
+
+Darkbeat : le test
+Frappez le maximum de dragon possible, puis de chauve souris.
+Le bon coffre est le 4eme (il est invisible).
+Espionnez la conversation, puis allez sur la tour, appuyez sur "entrée", allez chercher la corde (sur mur vers la réserve), retournez
+sur la tour puis appuyez sur "entrée".
+
+La foret :
+Il faut absolument augmenter son esprit avec les PC.
+Il n'y a que 3 monstres courage.
+
+Le pont :
+Laissez tomber ne touchez PAS les dragons maintenant !
+
+Tempo :
+Faites vos courses, voler l'armure au gars qui a les cheveux blond puis allez à l'auberge et reveillez vous dans
+la nuit. Tuez tous les zombies. Augmentez votre défense et votre
+attaque avec les points. Augmentez aussi votre agilité de 2 pour
+avoir le pouvoir de "voler". Voler alors les zombies peut etre
+interressants. Quand le message d'aller au cimitière est affiché,
+allez y.
+
+Cimetière :
+Vous inquietez pas...
+
+Bloosky/Klea :
+Le bateau : 
+Allez chercher le 8eme tonneau et emmenez le dans la
+pièce la plus au fond dans le bateau, puis posez le.
+Retournez dans la cabine.
+
+L'attaque : Allez tout en bas chercher Kléa. Battez l'orc,
+vous pouvez ensuite éviter l'autre en passant quand il n'est pas
+en face de vous.
+Revisitez les cabines, il y a plein d'objet, et un homme qui vend
+des potions.
+Allez sur le pont, puis dans la cabine du capitaine (derrière le mat).
+Visitez bien la cabine. Ressortez et allez tourner le gouvernail avec
+Bloosky en leader.
+
+Village des orcs : Visitez, c'est tout.
+
+Tempo : Visitez, puis partez en direction de l'église.
+
+Eglise : Observez le gros truc jaune au fond, puis revenez à Tempo.
+
+Tempo : Allez y la nuit.
+Combattez les zombies. Attention ! Vous devez augmenter votre défense
+et votre agilité, sinon le prochain combat sera dur !
+N'hésitez pas a ressortir de Tempo et rerentrer pour rebattre des
+zombies. Quand vous etes pret, allez tout en haut dans Tempo.
+
+Combat Boss :
+Vous pouvez mettre vos 2 persos au 2eme plan, puis faites de la magie !
+
+Allez ensuite à l'eglise, parlez au chien avec Klea puis ouvrez la grosse porte jaune.
+
+Eglise année 3000 : Allez à Tempo année 3000.
+
+Tempo :
+Faites vos courses et allez au chateau, parlez au roi, puis au pretre.
+Revenez à Tempo année 2400.
+
+
+ATTENTION !! A PARTIR DE MAINTENANT LES ENNEMIS SONT BEAUCOUP PLUS
+FORTS !
+
+Tempo : cherchez Darkbeat dans l'auberge.
+
+La quete des 4 ingrédients :
+
+Je ne vous sens pas du tout assez fort pour combattre les monstres qui ont beaucoup evolué !
+
+Entrainement : 
+Les zombies peuvent etre battu assez facilement et donnent 8 PC.
+Profitez en ! Je vous conseille d'augmenter votre esprit et votre force en priorité. Essayez d'apprendre le "Kaméha", le sort "foudre" (utile
+pour les monstres à un oeil) et la technique "lancer".
+Allez ensuite dans la foret à gauche du pont.
+
+ordre conseillé :
+
+ingrédient 1 :
+
+Foret :
+Si les monstres vous font encore trop de dommage, augmentez encore votre esprit !
+
+Camp : Chercher le raisin sur la table...
+
+ingrédient 2 :
+
+Montagne orc : Avant achetez des shurikens (4-5)!!
+Augmentez votre défense, attaque et agilité en priorité.
+Les orcs sont sensibles au feu !
+Utlisez darkbeat pour sauter le pont.
+
+Combat boss :
+Choisissez le plus faible pour le premier combat.
+Pour tout les persos passez au 2eme plan. Puis faites "feu, "boule de feu" ou "lancer".
+
+Eglise orc : 
+Appuyer sur le 3eme bloc bleu, et sur le 8eme (3h40 sur une horloge)
+puis appuyer le bouton sur la statue rouge gauche. (vous pouvez savoir
+tout ca en sortant de l'eglise avec Bloosky en leader)
+
+Vous devriez etre pas loin d'avoir d'autre technique ici.
+Faites quelques combats pour avoir 3 techniques pour chaque perso.
+
+Après ces 2 ingrédients, vous devriez etre fort, assez fort pour
+battre les dragons sur le pont.
+Attention, les dragons donnent 20 PC mais ne reviennent pas, assurez
+vous que vos persos soient tous vivants à la fin du combat !
+Vous aurez avec les 5 dragons 100 pc !!
+Profitez en pour apprendre les techniques 4 et la trans de chaque
+perso. Si il vous manque des cristaux pas de panique et continuez.
+
+Ingrédient 3 :
+Le plus simple, il faut allez en l'an 3000 à tempo.
+Achetez un pot (graine) et voler le fruit (avec darkbeat en leader).
+Passez au cimetière avec Bloosky en leader, un gars vends des cristaux! 
+
+Ingrédient 4 :
+Aller en l'an 2400 dans la foret au sud de tempo (un peu en dessous
+de la pancarte sur la carte).
+Les ennemis ne devraient pas vous poser de problème ici.
+Utiliser Darkbeat pour sauter le cours d'eau et allez sur le petit
+bout de terre au milieu de l'eau.
+
+Allez ensuite dans cette meme foret mais en l'an 3000.
+Traversez la et vous vous battrez contre un dragon.
+Si il vous met la paté, augmentez vos capacités.
+Vous devez avoir toutes vos techniques à ce niveau là.
+
+Boss : Dragon :
+Le mieux est d'utiliser Klea et sa magie soin. Darkbeat peut lancer
+des shurikens ou faire "clone" et Bloosky devra se mettre en défense et attendre d'avoir 9 PA pour se transformer en Dyhort. (il frappe durant 3 tour très très fort). Il est sensible à la foudre et Darkbeat peut
+lui voler un crystal.
+
+
+Retournez ensuite en l'an 2400, parlez à la fille dans l'église
+puis allez au cimetière la nuit! N'oubliez pas de SAUVEGARDER avant !!!
+
+Dernier Boss : Meme technique que pour le dragon.
+Mais attention, ses capacités sont supérieures et il est insensible
+à la magie.
+
+Retrounez ensuite à tempo en l'an 3000 et allez parler au gars à
+l'auberge.
+
+Fin, bravo.
+
+
+Quete supplémentaire :
+-Ultime boss : Boss dans le petit chateau à tempo année 3000...
+Très très fort...
+-Kléa peut parler à tous les animaux (cherchez le poisson, la chèvre,
+le chien dans la niche...)
+-Bloosky peut voir les morts, allez dans les cimetière (celui du village orcs par exemple).
+-Darkbeat peut voler certaines personnes...Ex, le gars qui garde la
+foret à l'est de tempo année 3000.
+-Cherchez la clé dans la maison de tempo année 3000, donnez la au gars
+de la meme maison mais année 2400, puis revenez dans la maison année 3000...
+-Après avoir tué le sorcier et parlé à la fille qui admire la statue
+à Tempo année 3000, vous pouvez retournez à Tempo en l'an 2400 et
+parler au gars au cheveux blond. Revenez en l'an 3000, la statue
+aura changé...

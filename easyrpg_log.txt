@@ -1,0 +1,1159 @@
+[2025-01-25 19:49:09] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:49:09] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:49:09] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:49:09] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:49:09] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:49:09] Debug: Fluidsynth: Could not load soundfont.
+[2025-01-25 19:49:09] Debug: WildMidi: Could not find configuration file.
+[2025-01-25 19:49:09] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:49:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:49:41] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [456x]
+[2025-01-25 19:49:41] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:49:42] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:51:46] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 19:51:46] Debug: ========================================================
+[2025-01-25 19:51:46] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 19:51:46] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 19:51:46] Debug: Seeded the RNG with 1737831106.
+[2025-01-25 19:51:46] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 19:51:46] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 19:51:46] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 19:51:46] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 19:51:46] Debug: Game and Save Directory:
+[2025-01-25 19:51:46] Debug: 1: [Native] 
+[2025-01-25 19:51:46] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 19:51:46] Debug: EXEReader: BITMAP not found.
+[2025-01-25 19:51:46] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 19:51:46] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 19:51:46] Debug: Unable to detect version from exe
+[2025-01-25 19:51:46] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 19:51:46] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 19:51:46] Debug: RTP is "Official English" (675/675)
+[2025-01-25 19:51:46] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 19:51:46] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 19:51:46] Debug: Resolution changed to 416x240
+[2025-01-25 19:51:49] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:51:49] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:51:49] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:51:49] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:51:53] Debug: Loading Save Save02.lsd
+[2025-01-25 19:51:53] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 19:51:53] Debug: Loaded Map Map0014.lmu
+[2025-01-25 19:51:53] Debug: Tree: Maison Klea < Winter 2400 < Carte du monde 2400
+[2025-01-25 19:51:54] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:51:57] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192) [2x]
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:08] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:09] Debug: Image size out of bounds: FaceSet/00bloosky (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:09] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:09] Debug: Saving to Save01.lsd
+[2025-01-25 19:52:11] Debug: Loaded Map Map0008.lmu
+[2025-01-25 19:52:11] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:52:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:52:11] Debug: Fluidsynth: Could not load soundfont.
+[2025-01-25 19:52:11] Debug: WildMidi: Could not find configuration file.
+[2025-01-25 19:52:12] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:14] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:52:29] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 19:52:29] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:52:44] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [216x]
+[2025-01-25 19:52:44] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:52:44] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:53:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [672x]
+[2025-01-25 19:53:30] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:53:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:54:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 19:54:11] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:54:12] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:54:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [288x]
+[2025-01-25 19:54:31] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:54:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:09] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 19:55:09] Debug: ========================================================
+[2025-01-25 19:55:09] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 19:55:09] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 19:55:09] Debug: Seeded the RNG with 1737831309.
+[2025-01-25 19:55:09] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 19:55:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 19:55:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 19:55:09] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 19:55:09] Debug: Game and Save Directory:
+[2025-01-25 19:55:09] Debug: 1: [Native] 
+[2025-01-25 19:55:09] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 19:55:09] Debug: EXEReader: BITMAP not found.
+[2025-01-25 19:55:09] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 19:55:09] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 19:55:09] Debug: Unable to detect version from exe
+[2025-01-25 19:55:09] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 19:55:09] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 19:55:09] Debug: RTP is "Official English" (675/675)
+[2025-01-25 19:55:09] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 19:55:09] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 19:55:09] Debug: Resolution changed to 416x240
+[2025-01-25 19:55:12] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:12] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 19:55:12] Debug: Loading Save Save01.lsd
+[2025-01-25 19:55:12] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 19:55:12] Debug: Loaded Map Map0014.lmu
+[2025-01-25 19:55:12] Debug: Tree: Maison Klea < Winter 2400 < Carte du monde 2400
+[2025-01-25 19:55:14] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Loaded Map Map0008.lmu
+[2025-01-25 19:55:17] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:55:17] Debug: Fluidsynth: Could not load soundfont.
+[2025-01-25 19:55:17] Debug: WildMidi: Could not find configuration file.
+[2025-01-25 19:55:17] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:17] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:19] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [168x]
+[2025-01-25 19:55:19] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:19] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:20] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [264x]
+[2025-01-25 19:55:20] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:20] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:24] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [480x]
+[2025-01-25 19:55:24] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:24] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [168x]
+[2025-01-25 19:55:31] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:32] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:55:48] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [264x]
+[2025-01-25 19:55:48] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 19:55:50] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:56:19] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [456x]
+[2025-01-25 19:56:19] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 19:56:20] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:56:29] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [144x]
+[2025-01-25 19:56:29] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 19:56:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:56:46] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 19:56:46] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:56:46] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:56:55] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [144x]
+[2025-01-25 19:56:55] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:56:56] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:57:01] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [96x]
+[2025-01-25 19:57:01] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:57:02] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:57:08] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [96x]
+[2025-01-25 19:57:08] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:57:09] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:57:16] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [120x]
+[2025-01-25 19:57:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:57:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 19:57:16] Debug: Saving to Save01.lsd
+[2025-01-25 19:57:18] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:57:22] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 19:57:22] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:57:23] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:57:32] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [144x]
+[2025-01-25 19:57:32] Debug: Loaded Map Map0005.lmu
+[2025-01-25 19:57:32] Debug: Tree: Menu
+[2025-01-25 19:57:34] Debug: Loaded Map Map0139.lmu
+[2025-01-25 19:57:34] Debug: Tree: equipement < Menu
+[2025-01-25 19:57:36] Debug: Loaded Map Map0005.lmu
+[2025-01-25 19:57:36] Debug: Tree: Menu
+[2025-01-25 19:57:38] Debug: Loaded Map Map0009.lmu
+[2025-01-25 19:57:38] Debug: Tree: technique < Menu
+[2025-01-25 19:58:00] Debug: Loaded Map Map0005.lmu
+[2025-01-25 19:58:00] Debug: Tree: Menu
+[2025-01-25 19:58:01] Debug: Loaded Map Map0008.lmu
+[2025-01-25 19:58:01] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:01] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:58:24] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [360x]
+[2025-01-25 19:58:24] Debug: Loaded Map Map0016.lmu
+[2025-01-25 19:58:24] Debug: Tree: Magasin < Winter 2400 < Carte du monde 2400
+[2025-01-25 19:58:28] Debug: Loaded Map Map0008.lmu
+[2025-01-25 19:58:28] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:58:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:58:31] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:58:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:59:25] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [288x]
+[2025-01-25 19:59:25] Debug: Loaded Map Map0017.lmu
+[2025-01-25 19:59:25] Debug: Tree: Auberge < Winter 2400 < Carte du monde 2400
+[2025-01-25 19:59:25] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Loaded Map Map0008.lmu
+[2025-01-25 19:59:28] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 19:59:28] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 19:59:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 19:59:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 19:59:43] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [192x]
+[2025-01-25 19:59:43] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 19:59:44] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 19:59:44] Debug: Saving to Save01.lsd
+[2025-01-25 19:59:44] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:00:05] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:00:05] Debug: ========================================================
+[2025-01-25 20:00:05] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 20:00:05] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:00:05] Debug: Seeded the RNG with 1737831605.
+[2025-01-25 20:00:05] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:00:05] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:00:05] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:00:05] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:00:05] Debug: Game and Save Directory:
+[2025-01-25 20:00:05] Debug: 1: [Native] 
+[2025-01-25 20:00:05] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:00:05] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:00:05] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:00:05] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:00:05] Debug: Unable to detect version from exe
+[2025-01-25 20:00:05] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:00:05] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:00:06] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:00:06] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:00:06] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:00:06] Debug: Resolution changed to 416x240
+[2025-01-25 20:00:08] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:00:09] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:00:09] Debug: Loading Save Save01.lsd
+[2025-01-25 20:00:09] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:00:09] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:00:09] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:00:10] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:00:21] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [144x]
+[2025-01-25 20:00:21] Debug: Loaded Map Map0015.lmu
+[2025-01-25 20:00:21] Debug: Tree: Maison Bloosky < Winter 2400 < Carte du monde 2400
+[2025-01-25 20:00:21] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:00:22] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:00:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:23] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:23] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:00:37] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [216x]
+[2025-01-25 20:00:37] Debug: Loaded Map Map0012.lmu
+[2025-01-25 20:00:37] Debug: Tree: Maison Celie < Winter 2400 < Carte du monde 2400
+[2025-01-25 20:00:37] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256) [2x]
+[2025-01-25 20:00:48] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:00:48] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:00:48] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:00:49] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:00:49] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:01:00] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [168x]
+[2025-01-25 20:01:00] Debug: Loaded Map Map0005.lmu
+[2025-01-25 20:01:00] Debug: Tree: Menu
+[2025-01-25 20:01:01] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:01:01] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 20:01:01] Debug: Saving to Save01.lsd
+[2025-01-25 20:01:02] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:01:02] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:01:02] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:03] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:03] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:01:24] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [312x]
+[2025-01-25 20:01:24] Debug: Loaded Map Map0018.lmu
+[2025-01-25 20:01:24] Debug: Tree: Maison Maire < Winter 2400 < Carte du monde 2400
+[2025-01-25 20:01:30] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:01:30] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:01:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:01:48] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [264x]
+[2025-01-25 20:01:48] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:01:49] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 20:01:49] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:01:55] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 20:01:55] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:01:55] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 20:01:55] Debug: Saving to Save01.lsd
+[2025-01-25 20:01:57] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:04] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:03:04] Debug: ========================================================
+[2025-01-25 20:03:04] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 20:03:04] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:03:04] Debug: Seeded the RNG with 1737831783.
+[2025-01-25 20:03:04] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:03:04] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:03:04] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:03:04] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:03:04] Debug: Game and Save Directory:
+[2025-01-25 20:03:04] Debug: 1: [Native] 
+[2025-01-25 20:03:04] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:03:04] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:03:04] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:03:04] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:03:04] Debug: Unable to detect version from exe
+[2025-01-25 20:03:04] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:03:04] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:03:04] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:03:04] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:03:04] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:03:04] Debug: Resolution changed to 416x240
+[2025-01-25 20:03:06] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:07] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:03:07] Debug: Loading Save Save01.lsd
+[2025-01-25 20:03:07] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:03:07] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:03:07] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:03:08] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:11] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:11] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:16] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 20:03:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 20:03:16] Debug: Loading Save Save02.lsd
+[2025-01-25 20:03:16] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:03:16] Debug: Loaded Map Map0014.lmu
+[2025-01-25 20:03:16] Debug: Tree: Maison Klea < Winter 2400 < Carte du monde 2400
+[2025-01-25 20:03:17] Debug: Image size out of bounds: CharSet/FX-Misc-Cooking-01 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:19] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192) [2x]
+[2025-01-25 20:03:22] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:03:22] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:22] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:22] Debug: Fluidsynth: Could not load soundfont.
+[2025-01-25 20:03:22] Debug: WildMidi: Could not find configuration file.
+[2025-01-25 20:03:23] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:23] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:26] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [192x]
+[2025-01-25 20:03:26] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:26] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:27] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [192x]
+[2025-01-25 20:03:27] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:27] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:29] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [336x]
+[2025-01-25 20:03:29] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:29] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [48x]
+[2025-01-25 20:03:30] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:30] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 20:03:31] Debug: Image size out of bounds: FaceSet/00bradge (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:31] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:34] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [432x]
+[2025-01-25 20:03:34] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:34] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:35] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [96x]
+[2025-01-25 20:03:35] Debug: Image size out of bounds: FaceSet/00kleatriste (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:35] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [120x]
+[2025-01-25 20:03:36] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 20:03:36] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 20:03:36] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:36] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:37] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [72x]
+[2025-01-25 20:03:37] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:37] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:39] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 20:03:39] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:40] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:51] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [456x]
+[2025-01-25 20:03:51] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:03:53] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:03:53] Debug: Loading Save Save01.lsd
+[2025-01-25 20:03:53] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:03:53] Debug: Loaded Map Map0008.lmu
+[2025-01-25 20:03:53] Debug: Tree: Winter 2400 < Carte du monde 2400
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [24x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/corde (288x256 < 64x35 < 288x256) [2x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/AnastasiaCharacteranim (288x256 < 73x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/chara17 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [3x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige (288x256 < 90x41 < 288x256) [4x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/neige2 (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [4x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Air-Weathervane-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Air-Windmill-01 (288x256 < 72x128 < 288x256) [3x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256)
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/FX-Smoke-03 (288x256 < 144x128 < 288x256) [9x]
+[2025-01-25 20:03:54] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256)
+[2025-01-25 20:03:58] Debug: Image size out of bounds: CharSet/bonhommeneige (288x256 < 90x41 < 288x256) [2x]
+[2025-01-25 20:03:58] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:04:06] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [240x]
+[2025-01-25 20:04:06] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:04:07] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256)
+[2025-01-25 20:04:13] Debug: Image size out of bounds: CharSet/fumée2 (288x256 < 288x82 < 288x256) [96x]
+[2025-01-25 20:04:13] Debug: Loaded Map Map0031.lmu
+[2025-01-25 20:04:13] Debug: Tree: plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:04:38] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:04:58] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [3x]
+[2025-01-25 20:04:58] Debug: Loaded Map Map0060.lmu
+[2025-01-25 20:04:58] Debug: Tree: souscarte < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:04:59] Debug: Loaded Map Map0031.lmu
+[2025-01-25 20:04:59] Debug: Tree: plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:05:02] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:05:05] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [7x]
+[2025-01-25 20:05:05] Debug: Saving to Save01.lsd
+[2025-01-25 20:05:06] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:05:08] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:05:08] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:05:08] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:05:12] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:05:12] Debug: Tree: Combat
+[2025-01-25 20:05:12] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:07:14] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:07:14] Debug: ========================================================
+[2025-01-25 20:07:14] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 20:07:14] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:07:14] Debug: Seeded the RNG with 1737832034.
+[2025-01-25 20:07:14] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:07:14] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:07:14] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:07:14] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:07:14] Debug: Game and Save Directory:
+[2025-01-25 20:07:14] Debug: 1: [Native] 
+[2025-01-25 20:07:14] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:07:14] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:07:14] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:07:14] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:07:14] Debug: Unable to detect version from exe
+[2025-01-25 20:07:14] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:07:14] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:07:14] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:07:14] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:07:14] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:07:14] Debug: Resolution changed to 416x240
+[2025-01-25 20:07:15] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:07:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:07:16] Debug: Loading Save Save01.lsd
+[2025-01-25 20:07:16] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:07:16] Debug: Loaded Map Map0031.lmu
+[2025-01-25 20:07:16] Debug: Tree: plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:07:18] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:07:20] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:07:20] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:07:20] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:07:24] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:07:24] Debug: Tree: Combat
+[2025-01-25 20:07:24] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:08:09] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:08:09] Debug: ========================================================
+[2025-01-25 20:08:09] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 20:08:09] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:08:09] Debug: Seeded the RNG with 1737832088.
+[2025-01-25 20:08:09] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:08:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:08:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:08:09] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:08:09] Debug: Game and Save Directory:
+[2025-01-25 20:08:09] Debug: 1: [Native] 
+[2025-01-25 20:08:09] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:08:09] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:08:09] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:08:09] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:08:09] Debug: Unable to detect version from exe
+[2025-01-25 20:08:09] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:08:09] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:08:09] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:08:09] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:08:09] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:08:09] Debug: Resolution changed to 416x240
+[2025-01-25 20:08:10] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:08:10] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:08:10] Debug: Loading Save Save01.lsd
+[2025-01-25 20:08:10] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:08:10] Debug: Loaded Map Map0031.lmu
+[2025-01-25 20:08:10] Debug: Tree: plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:08:13] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:08:15] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:08:15] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:08:15] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:08:16] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:08:16] Debug: Tree: Combat
+[2025-01-25 20:08:16] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:10:26] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:10:26] Debug: ========================================================
+[2025-01-25 20:10:26] Debug: CLI: TestPlay HideTitle FullScreen 
+[2025-01-25 20:10:26] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:10:26] Debug: Seeded the RNG with 1737832225.
+[2025-01-25 20:10:26] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:10:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:10:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:10:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:10:26] Debug: Game and Save Directory:
+[2025-01-25 20:10:26] Debug: 1: [Native] 
+[2025-01-25 20:10:26] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:10:26] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:10:26] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:10:26] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:10:26] Debug: Unable to detect version from exe
+[2025-01-25 20:10:26] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:10:26] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:10:26] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:10:26] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:10:26] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:10:26] Debug: Resolution changed to 416x240
+[2025-01-25 20:10:27] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:10:27] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:10:27] Debug: Loading Save Save01.lsd
+[2025-01-25 20:10:27] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:10:27] Debug: Loaded Map Map0031.lmu
+[2025-01-25 20:10:27] Debug: Tree: plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:10:30] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:10:33] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [7x]
+[2025-01-25 20:10:33] Debug: Saving to Save01.lsd
+[2025-01-25 20:10:34] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:10:34] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:10:34] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:10:37] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:10:37] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-01-25 20:10:37] Debug: Saving to Save01.lsd
+[2025-01-25 20:10:40] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:10:40] Debug: Tree: Combat
+[2025-01-25 20:10:40] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:19:49] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:19:49] Debug: ========================================================
+[2025-01-25 20:19:49] Debug: CLI: TestPlay HideTitle Window 
+[2025-01-25 20:19:49] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:19:49] Debug: Seeded the RNG with 1737832789.
+[2025-01-25 20:19:49] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:19:49] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:19:49] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:19:49] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:19:49] Debug: Game and Save Directory:
+[2025-01-25 20:19:49] Debug: 1: [Native] 
+[2025-01-25 20:19:49] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:19:49] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:19:49] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:19:49] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:19:49] Debug: Unable to detect version from exe
+[2025-01-25 20:19:49] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:19:49] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:19:49] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:19:49] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:19:49] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:19:49] Debug: Resolution changed to 416x240
+[2025-01-25 20:19:51] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:19:52] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:19:52] Debug: Loading Save Save01.lsd
+[2025-01-25 20:19:52] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:19:52] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:19:52] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:19:53] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:19:57] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:19:57] Debug: Tree: Combat
+[2025-01-25 20:19:57] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:22:03] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:22:03] Debug: ========================================================
+[2025-01-25 20:22:03] Debug: CLI: TestPlay HideTitle Window 
+[2025-01-25 20:22:03] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:22:03] Debug: Seeded the RNG with 1737832923.
+[2025-01-25 20:22:03] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:22:03] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:22:03] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:22:03] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:22:03] Debug: Game and Save Directory:
+[2025-01-25 20:22:03] Debug: 1: [Native] 
+[2025-01-25 20:22:03] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:22:03] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:22:03] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:22:03] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:22:03] Debug: Unable to detect version from exe
+[2025-01-25 20:22:03] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:22:03] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:22:03] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:22:03] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:22:03] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:22:03] Debug: Resolution changed to 416x240
+[2025-01-25 20:22:04] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:22:05] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:22:05] Debug: Loading Save Save01.lsd
+[2025-01-25 20:22:05] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:22:05] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:22:05] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:22:06] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:22:09] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:22:09] Debug: Tree: Combat
+[2025-01-25 20:22:09] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:22:20] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:22:21] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:22:21] Debug: Loading Save Save01.lsd
+[2025-01-25 20:22:21] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:22:21] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:22:21] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:22:22] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:22:24] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:22:24] Debug: Tree: Combat
+[2025-01-25 20:22:24] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:24:25] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:24:25] Debug: ========================================================
+[2025-01-25 20:24:25] Debug: CLI: TestPlay HideTitle Window 
+[2025-01-25 20:24:25] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:24:25] Debug: Seeded the RNG with 1737833064.
+[2025-01-25 20:24:25] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:24:25] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:24:25] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:24:25] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:24:25] Debug: Game and Save Directory:
+[2025-01-25 20:24:25] Debug: 1: [Native] 
+[2025-01-25 20:24:25] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:24:25] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:24:25] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:24:25] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:24:25] Debug: Unable to detect version from exe
+[2025-01-25 20:24:25] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:24:25] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:24:25] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:24:25] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:24:25] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:24:25] Debug: Resolution changed to 416x240
+[2025-01-25 20:24:26] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:24:27] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:24:27] Debug: Loading Save Save01.lsd
+[2025-01-25 20:24:27] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:24:27] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:24:27] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:24:28] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:24:31] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:24:31] Debug: Tree: Combat
+[2025-01-25 20:24:31] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-01-25 20:25:08] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-01-25 20:25:08] Debug: ========================================================
+[2025-01-25 20:25:08] Debug: CLI: TestPlay HideTitle Window 
+[2025-01-25 20:25:08] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-01-25 20:25:08] Debug: Seeded the RNG with 1737833107.
+[2025-01-25 20:25:08] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-01-25 20:25:08] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-01-25 20:25:08] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-01-25 20:25:08] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-01-25 20:25:08] Debug: Game and Save Directory:
+[2025-01-25 20:25:08] Debug: 1: [Native] 
+[2025-01-25 20:25:08] Debug: Loading game Dyhortfight 2 Remastered
+[2025-01-25 20:25:08] Debug: EXEReader: BITMAP not found.
+[2025-01-25 20:25:08] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-01-25 20:25:08] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-01-25 20:25:08] Debug: Unable to detect version from exe
+[2025-01-25 20:25:08] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-01-25 20:25:08] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-01-25 20:25:08] Debug: RTP is "Official English" (675/675)
+[2025-01-25 20:25:08] Debug: Patch configuration: Maniac Patch (1)
+[2025-01-25 20:25:08] Debug: Cannot find: Logo/LOGO1
+[2025-01-25 20:25:08] Debug: Resolution changed to 416x240
+[2025-01-25 20:25:12] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-01-25 20:25:12] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-01-25 20:25:12] Debug: Loading Save Save01.lsd
+[2025-01-25 20:25:12] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-01-25 20:25:12] Debug: Loaded Map Map0061.lmu
+[2025-01-25 20:25:12] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-01-25 20:25:14] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-01-25 20:25:17] Debug: Loaded Map Map0001.lmu
+[2025-01-25 20:25:17] Debug: Tree: Combat
+[2025-01-25 20:25:17] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-10-31 20:05:45] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-10-31 20:05:45] Debug: ========================================================
+[2025-10-31 20:05:45] Debug: CLI: TestPlay HideTitle Window 
+[2025-10-31 20:05:45] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-10-31 20:05:45] Debug: Seeded the RNG with 1761937545.
+[2025-10-31 20:05:45] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-10-31 20:05:45] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-10-31 20:05:45] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-10-31 20:05:45] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-10-31 20:05:45] Debug: Game and Save Directory:
+[2025-10-31 20:05:45] Debug: 1: [Native] 
+[2025-10-31 20:05:45] Debug: Loading game Dyhortfight 2 Remastered
+[2025-10-31 20:05:45] Debug: EXEReader: BITMAP not found.
+[2025-10-31 20:05:45] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-10-31 20:05:45] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-10-31 20:05:45] Debug: Unable to detect version from exe
+[2025-10-31 20:05:45] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-10-31 20:05:45] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-10-31 20:05:45] Debug: RTP is "Official English" (675/675)
+[2025-10-31 20:05:45] Debug: Patch configuration: Maniac Patch (1)
+[2025-10-31 20:05:45] Debug: Cannot find: Logo/LOGO1
+[2025-10-31 20:05:45] Debug: Resolution changed to 416x240
+[2025-10-31 20:05:47] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 20:05:48] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-10-31 20:05:48] Debug: Loading Save Save01.lsd
+[2025-10-31 20:05:48] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-10-31 20:05:48] Debug: Loaded Map Map0061.lmu
+[2025-10-31 20:05:48] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:05:49] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 20:05:53] Debug: Loaded Map Map0001.lmu
+[2025-10-31 20:05:53] Debug: Tree: Combat
+[2025-10-31 20:05:53] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-10-31 20:06:03] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 20:06:30] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256) [3x]
+[2025-10-31 20:06:30] Debug: Loaded Map Map0061.lmu
+[2025-10-31 20:06:30] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:06:31] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:06:31] Debug: Tree: Menu
+[2025-10-31 20:06:33] Debug: Loaded Map Map0139.lmu
+[2025-10-31 20:06:33] Debug: Tree: equipement < Menu
+[2025-10-31 20:06:35] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:06:35] Debug: Tree: Menu
+[2025-10-31 20:06:36] Debug: Loaded Map Map0061.lmu
+[2025-10-31 20:06:36] Debug: Tree: plainesuite < plaine1 < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:06:40] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:06:40] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:06:40] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 20:06:57] Debug: Loaded Map Map0001.lmu
+[2025-10-31 20:06:57] Debug: Tree: Combat
+[2025-10-31 20:06:57] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 20:07:26] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256) [4x]
+[2025-10-31 20:07:26] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:07:26] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:07:27] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:07:27] Debug: Tree: Menu
+[2025-10-31 20:07:30] Debug: Loaded Map Map0139.lmu
+[2025-10-31 20:07:30] Debug: Tree: equipement < Menu
+[2025-10-31 20:07:31] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:07:31] Debug: Tree: Menu
+[2025-10-31 20:07:33] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 20:07:33] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-10-31 20:07:33] Debug: Saving to Save01.lsd
+[2025-10-31 20:07:36] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:07:36] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:07:37] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:07:37] Debug: Tree: Menu
+[2025-10-31 20:07:38] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:07:38] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:07:45] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:07:45] Debug: Tree: Menu
+[2025-10-31 20:07:49] Debug: Loaded Map Map0009.lmu
+[2025-10-31 20:07:49] Debug: Tree: technique < Menu
+[2025-10-31 20:08:11] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:08:11] Debug: Tree: Menu
+[2025-10-31 20:08:14] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:08:14] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:08:15] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:08:15] Debug: Tree: Menu
+[2025-10-31 20:08:16] Debug: Loaded Map Map0006.lmu
+[2025-10-31 20:08:16] Debug: Tree: objet < Menu
+[2025-10-31 20:08:20] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:08:20] Debug: Tree: Menu
+[2025-10-31 20:08:22] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:08:22] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:09:32] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-10-31 20:09:32] Debug: ========================================================
+[2025-10-31 20:09:32] Debug: CLI: TestPlay HideTitle Window 
+[2025-10-31 20:09:32] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-10-31 20:09:32] Debug: Seeded the RNG with 1761937771.
+[2025-10-31 20:09:32] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-10-31 20:09:32] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-10-31 20:09:32] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-10-31 20:09:32] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-10-31 20:09:32] Debug: Game and Save Directory:
+[2025-10-31 20:09:32] Debug: 1: [Native] 
+[2025-10-31 20:09:32] Debug: Loading game Dyhortfight 2 Remastered
+[2025-10-31 20:09:32] Debug: EXEReader: BITMAP not found.
+[2025-10-31 20:09:32] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-10-31 20:09:32] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-10-31 20:09:32] Debug: Unable to detect version from exe
+[2025-10-31 20:09:32] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-10-31 20:09:32] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-10-31 20:09:32] Debug: RTP is "Official English" (675/675)
+[2025-10-31 20:09:32] Debug: Patch configuration: Maniac Patch (1)
+[2025-10-31 20:09:32] Debug: Cannot find: Logo/LOGO1
+[2025-10-31 20:09:32] Debug: Resolution changed to 416x240
+[2025-10-31 20:09:34] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 20:09:35] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-10-31 20:09:35] Debug: Loading Save Save01.lsd
+[2025-10-31 20:09:35] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-10-31 20:09:35] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:09:35] Debug: Tree: Menu
+[2025-10-31 20:09:38] Debug: Loaded Map Map0009.lmu
+[2025-10-31 20:09:38] Debug: Tree: technique < Menu
+[2025-10-31 20:09:43] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:09:43] Debug: Tree: Menu
+[2025-10-31 20:09:44] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:09:44] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:09:55] Debug: Loaded Map Map0005.lmu
+[2025-10-31 20:09:55] Debug: Tree: Menu
+[2025-10-31 20:09:56] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 20:09:56] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-10-31 20:09:56] Debug: Saving to Save01.lsd
+[2025-10-31 20:09:57] Debug: Loaded Map Map0010.lmu
+[2025-10-31 20:09:57] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:10:00] Debug: Loaded Map Map0062.lmu
+[2025-10-31 20:10:00] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 20:10:00] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 20:10:03] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256) [2x]
+[2025-10-31 20:10:03] Debug: Loaded Map Map0001.lmu
+[2025-10-31 20:10:03] Debug: Tree: Combat
+[2025-10-31 20:10:03] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 20:10:12] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 22:00:53] Debug: EasyRPG Player 0.8 git+704@e07493fe (2025-01-22) started
+[2025-10-31 22:00:53] Debug: ========================================================
+[2025-10-31 22:00:53] Debug: CLI: TestPlay HideTitle Window 
+[2025-10-31 22:00:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2025-10-31 22:00:53] Debug: Seeded the RNG with 1761944453.
+[2025-10-31 22:00:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2025-10-31 22:00:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2025-10-31 22:00:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2025-10-31 22:00:53] Debug: Detected encoding: ibm-5348_P100-1997
+[2025-10-31 22:00:53] Debug: Game and Save Directory:
+[2025-10-31 22:00:53] Debug: 1: [Native] 
+[2025-10-31 22:00:53] Debug: Loading game Dyhortfight 2 Remastered
+[2025-10-31 22:00:53] Debug: EXEReader: BITMAP not found.
+[2025-10-31 22:00:53] Debug: EXEReader: VERSIONINFO resource found (DE 0x170dbb0; 0x173f4f8; len 0x320)
+[2025-10-31 22:00:53] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 arch=amd64 easyrpg=true
+[2025-10-31 22:00:53] Debug: Unable to detect version from exe
+[2025-10-31 22:00:53] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2025-10-31 22:00:53] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2025-10-31 22:00:53] Debug: RTP is "Official English" (675/675)
+[2025-10-31 22:00:53] Debug: Patch configuration: Maniac Patch (1)
+[2025-10-31 22:00:53] Debug: Cannot find: Logo/LOGO1
+[2025-10-31 22:00:53] Debug: Resolution changed to 416x240
+[2025-10-31 22:00:57] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 22:00:58] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [4x]
+[2025-10-31 22:00:58] Debug: Loading Save Save01.lsd
+[2025-10-31 22:00:58] Debug: Savegame version 800 (EasyRPG Player 0.8.0)
+[2025-10-31 22:00:58] Debug: Loaded Map Map0005.lmu
+[2025-10-31 22:00:58] Debug: Tree: Menu
+[2025-10-31 22:01:04] Debug: Loaded Map Map0010.lmu
+[2025-10-31 22:01:04] Debug: Tree: Chemin vers Winter < Carte du monde 2400
+[2025-10-31 22:01:07] Debug: Loaded Map Map0062.lmu
+[2025-10-31 22:01:07] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 22:01:07] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 22:01:10] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256) [2x]
+[2025-10-31 22:01:10] Debug: Loaded Map Map0001.lmu
+[2025-10-31 22:01:10] Debug: Tree: Combat
+[2025-10-31 22:01:10] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 22:01:16] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 22:01:33] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 22:01:40] Debug: Loaded Map Map0062.lmu
+[2025-10-31 22:01:40] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 22:01:40] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 22:01:42] Debug: Loaded Map Map0005.lmu
+[2025-10-31 22:01:42] Debug: Tree: Menu
+[2025-10-31 22:01:43] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 22:01:44] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-10-31 22:01:44] Debug: Saving to Save01.lsd
+[2025-10-31 22:01:45] Debug: Loaded Map Map0062.lmu
+[2025-10-31 22:01:45] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 22:01:45] Debug: Image size out of bounds: CharSet/monstretaupe (288x256 < 144x130 < 288x256)
+[2025-10-31 22:01:50] Debug: Loaded Map Map0001.lmu
+[2025-10-31 22:01:50] Debug: Tree: Combat
+[2025-10-31 22:01:50] Debug: Image size out of bounds: CharSet/numerostatus (288x256 < 288x246 < 288x256)
+[2025-10-31 22:02:09] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256)
+[2025-10-31 22:02:38] Debug: Image size out of bounds: CharSet/nombrestatus2 (288x256 < 288x246 < 288x256) [2x]
+[2025-10-31 22:02:38] Debug: Loaded Map Map0062.lmu
+[2025-10-31 22:02:38] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
+[2025-10-31 22:02:39] Debug: Loaded Map Map0005.lmu
+[2025-10-31 22:02:39] Debug: Tree: Menu
+[2025-10-31 22:02:41] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192)
+[2025-10-31 22:02:41] Debug: Image size out of bounds: FaceSet/00klea (192x192 < 48x48 < 192x192) [6x]
+[2025-10-31 22:02:41] Debug: Saving to Save01.lsd
+[2025-10-31 22:02:42] Debug: Loaded Map Map0062.lmu
+[2025-10-31 22:02:42] Debug: Tree: plainecaverne < Chemin vers Winter < Carte du monde 2400
